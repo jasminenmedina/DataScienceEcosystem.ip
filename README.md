@@ -1,2 +1,2 @@
-# DataScienceEcosystem.ip
+# DataScienceEcosystem.ipynb
 Coursera Assignment
